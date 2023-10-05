@@ -4,8 +4,11 @@ public class Tester {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//		ChangePanel a = new ChangePanel();
-		MyLabelButton a = new MyLabelButton();
+		ChangePanel a = new ChangePanel();
+		
+		
+		
+//		MayLabelButton a = new MyLabelButton();
 		
 	}
 
